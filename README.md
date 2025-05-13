@@ -12,7 +12,6 @@ Graphic Designer | Front-end Developer
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=Adobe%20Illustrator&logoColor=white)
 ![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=flat&logo=Adobe%20InDesign&logoColor=white)
-![XD](https://img.shields.io/badge/XD-FF61F6?style=flat&logo=Adobe%20XD&logoColor=white)
 
 ## My Social Network:
 
