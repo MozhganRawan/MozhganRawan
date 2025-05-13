@@ -3,8 +3,6 @@
 # Hi , I am Mozhgan Rawan 
 
 Graphic Designer | Front-end Developer
-Location: Afghanistan - Herat  
-She/Her
 
 ## My Experience:
 
